@@ -1,7 +1,7 @@
-## RUTA
-# Project Proposal
+# RUTA
+## Project Proposal
 Introduction:
-	This project aims to develop a Machine Learning (ML) model that helps                computer science students receive personalized course recommendations. The goal is to guide students toward courses that align with their skills, interests, and career goals, improving their learning paths and future job opportunities. 
+	This project aims to develop a Machine Learning (ML) model that helps computer science students receive personalized course recommendations. The goal is to guide students toward courses that align with their skills, interests, and career goals, improving their learning paths and future job opportunities. 
 
 
 Problem Statement:
