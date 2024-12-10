@@ -4,7 +4,8 @@ Introduction:
 	This project aims to develop a Machine Learning (ML) model that helps computer science students receive personalized course recommendations. The goal is to guide students toward courses that align with their skills, interests, and career goals, improving their learning paths and future job opportunities. 
 
 
-Problem Statement:
+# Problem Statement:
+<br>
 	In the rapidly evolving field of computer science, students often struggle with identifying the foundational gaps in their knowledge, particularly when transitioning to more specialized fields such as web development, Flutter, Backend, machine learning, or data science. Traditional educational systems tend to offer generalized curricula that may not address individual weaknesses in core computer science principles like algorithms, data structures, or programming basics.
 	As a result, students may waste valuable time on areas where they are already proficient or, conversely, miss out on essential concepts they need to build a strong foundation for their desired career paths. This lack of personalized guidance leads to frustration, decreased motivation, and inefficiencies in learning.
 	Proposed Solution: An AI-powered system that generates personalized learning roadmaps for students by assessing their proficiency in key computer science fundamentals and aligning their learning journey with their chosen career track (e.g., web development, Flutter, data science). By conducting an assessment, the AI will identify gaps in students' basic skills and create a customized roadmap that addresses these deficiencies, gradually advancing to more specialized topics.
